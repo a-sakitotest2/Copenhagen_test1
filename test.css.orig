@@ -27,10 +27,15 @@ opqrstuvwxyz
 
 testsakito
 
-<<<<<<< HEAD
-fork_saki_kousin1
-=======
 fork-moto_update1
 
 fork_moto_update2
->>>>>>> a04930b8f6fd15150b821e63436240a782f8ae8d
+
+<<<<<<< HEAD
+fork_saki_kousin1
+
+=======
+fork_moto_update3
+
+fork_moto_update4
+>>>>>>> bf2aa64e048868902e0dbc54b2c00b22cbd4c328
